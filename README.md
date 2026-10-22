@@ -2,3 +2,8 @@
 This bash script will let you do a one click install of Wireguard on any Ubuntu VPS so you can have your own "VPN Server". 
 This file was forked from https://github.com/angristan/wireguard-install if you want the original -- they did a AWESOME JOB!
 But I wanted some customizations: automatic UFW fireall edits and custom DNS defaults.
+
+
+## Legal and provenance
+
+This repository is a modified fork of [angristan/wireguard-install](https://github.com/angristan/wireguard-install). Preserve the upstream attribution and MIT terms in [LICENSE](LICENSE). Bitseeker LLC's project-specific [disclaimer](DISCLAIMER.md) covers root privileges, firewall changes, key handling, and network effects.
